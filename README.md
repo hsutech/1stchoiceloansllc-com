@@ -1,6 +1,8 @@
-# 1stchoiceloansllc.com
+# 1stchoiceloansllc-com
 
-Static site for 1stchoiceloansllc.com.
+Eleventy / 11ty source site.
 
-Source factory repository: git@github.com:erikhsu70/pbns.git
-Cloudflare Pages project: 1stchoiceloansllc-com
+- Source: `src/`
+- Build command: `npm run build`
+- Output: `dist/`
+- Cloudflare Pages project: `1stchoiceloansllc-com`
