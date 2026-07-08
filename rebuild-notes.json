@@ -1,0 +1,29 @@
+{
+  "domain": "1stchoiceloansllc.com",
+  "builtAt": "2026-07-06T12:55:19.191Z",
+  "pages": 18,
+  "services": [
+    "personal-installment-loans",
+    "credit-restart-loans",
+    "emergency-expense-loans",
+    "payday-title-loan-alternative",
+    "medical-bill-loans"
+  ],
+  "posts": [
+    "personal-loan-application-checklist",
+    "payday-title-loan-alternatives",
+    "rebuilding-credit-after-financial-setback"
+  ],
+  "recoveredFacts": {
+    "address": "107 N. Porter St. Suite 7, Winchester, TN 37398",
+    "phone": "931-327-2117",
+    "email": "1stchoiceloansllc@gmail.com",
+    "hours": "Monday-Friday 9:00 AM-5:00 PM; Saturday-Sunday closed",
+    "loanRange": "$100-$1,000"
+  },
+  "manualReview": [
+    "Confirm current loan licensing, disclosures and required legal language before production DNS is connected.",
+    "Confirm whether the mailto forms should be replaced with a CRM or secure form endpoint.",
+    "External blog links were intentionally not added because link approval is required by domain policy."
+  ]
+}
