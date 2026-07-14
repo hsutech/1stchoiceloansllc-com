@@ -8,11 +8,23 @@
     {
       "keyword": "best personal loans in Winchester TN",
       "priority": "Alta",
-      "status": "created_pending_deploy_verification",
+      "status": "published",
       "slug": "best-personal-loans-winchester-tn",
       "title": "Best Personal Loans in Winchester TN: 7 Options to Compare",
       "url": "https://1stchoiceloansllc.com/blog/best-personal-loans-winchester-tn/",
       "publicationDate": "2026-07-15",
+      "commit": "dcc48af",
+      "verifiedAt": "2026-07-15",
+      "verification": {
+        "articleHttpStatus": 200,
+        "blogIndexHttpStatus": 200,
+        "sitemapHttpStatus": 200,
+        "imageHttpStatus": 200,
+        "h1": "Best Personal Loans in Winchester TN: 7 Options to Compare",
+        "canonical": "https://1stchoiceloansllc.com/blog/best-personal-loans-winchester-tn/",
+        "desktopRender": "passed",
+        "mobileRender": "passed"
+      },
       "featuredImage": "/assets/best-personal-loans-winchester-tn.jpg",
       "serpResearch": {
         "query": "best personal loans in Winchester TN",
