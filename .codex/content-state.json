@@ -1,0 +1,61 @@
+{
+  "domain": "1stchoiceloansllc.com",
+  "company": "1st Choice Loans LLC",
+  "market": "Winchester, Tennessee, USA",
+  "language": "English",
+  "lastRunStarted": "2026-07-15",
+  "processed": [
+    {
+      "keyword": "best personal loans in Winchester TN",
+      "priority": "Alta",
+      "status": "created_pending_deploy_verification",
+      "slug": "best-personal-loans-winchester-tn",
+      "title": "Best Personal Loans in Winchester TN: 7 Options to Compare",
+      "url": "https://1stchoiceloansllc.com/blog/best-personal-loans-winchester-tn/",
+      "publicationDate": "2026-07-15",
+      "featuredImage": "/assets/best-personal-loans-winchester-tn.jpg",
+      "serpResearch": {
+        "query": "best personal loans in Winchester TN",
+        "target": "Google US / Winchester TN",
+        "observations": [
+          "Top broad organic results are national best-personal-loan listicles updated for July 2026, typically built around lender lists, comparison criteria, pros/cons and FAQ sections.",
+          "The SERP intent is commercial/BOFU: users want options, eligibility expectations, cost comparison and warnings before applying.",
+          "National pages are long-form listicles with comparison methodology, author/editorial framing and frequent references to APR, fees, terms, funding speed and credit profile.",
+          "Local specificity is weak in broad SERP results, creating an opportunity for a Winchester/Franklin County comparison that explains local lender, credit union, bank, online lender and non-loan alternatives without inventing reviews or prices."
+        ],
+        "competitorPatterns": [
+          "Listicle or comparison format",
+          "Direct answer near the top",
+          "Comparison table",
+          "Eligibility and cost criteria",
+          "FAQs",
+          "Consumer-protection warnings"
+        ],
+        "gapsToAddress": [
+          "Local Winchester framing",
+          "Small-dollar loan fit versus national minimum loan amounts",
+          "Clear distinction between installment loans, payday/title alternatives and non-loan options",
+          "Regulator and fraud-reporting resources"
+        ],
+        "sources": [
+          "https://www.wsj.com/buyside/personal-finance/personal-loans/best-personal-loans",
+          "https://www.wsj.com/buyside/personal-finance/personal-loans/best-personal-loans-for-bad-credit",
+          "https://www.tn.gov/tdfi/consumer-resources.html",
+          "https://www.consumerfinance.gov/complaint/",
+          "https://reportfraud.ftc.gov/"
+        ]
+      },
+      "editorialReview": {
+        "intent": "Commercial BOFU listicle/comparison",
+        "wordCountTarget": "1300-2400",
+        "notes": [
+          "No prices, reviews, approval claims or third-party experiences invented.",
+          "Company mention is factual and contextual.",
+          "No YouTube embed included because no video materially improved the comparison intent.",
+          "Internal links point to existing pages only."
+        ]
+      }
+    }
+  ],
+  "skipped": []
+}
