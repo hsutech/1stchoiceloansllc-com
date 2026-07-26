@@ -3,7 +3,7 @@
   "company": "1st Choice Loans LLC",
   "market": "Winchester, Tennessee, USA",
   "language": "English",
-  "lastRunStarted": "2026-07-18",
+  "lastRunStarted": "2026-07-26",
   "processed": [
     {
       "keyword": "best personal loans in Winchester TN",
@@ -132,6 +132,77 @@
           "Company mention is factual and limited to relevant loan range context.",
           "No YouTube embed included because the SERP and topic did not reveal a specific video that materially improves the decision.",
           "External article links were limited to four reliable sources: one SERP competitor example, Tennessee regulator, CFPB education and FTC scam guidance."
+        ]
+      }
+    },
+    {
+      "keyword": "emergency loans in Winchester TN",
+      "priority": "Alta",
+      "status": "pushed_unverified",
+      "statusNote": "Reconciled from the previous local-only run and prepared for publication on 2026-07-26; pending commit, push and live verification.",
+      "slug": "emergency-loans-winchester-tn",
+      "title": "Emergency Loans in Winchester TN: 7 Options to Compare",
+      "url": "https://1stchoiceloansllc.com/blog/emergency-loans-winchester-tn/",
+      "publicationDate": "2026-07-26",
+      "commit": null,
+      "verifiedAt": null,
+      "verification": {
+        "localArticleExists": true,
+        "wordCount": 1791,
+        "h1": "Emergency Loans in Winchester TN: 7 Options to Compare",
+        "canonical": "https://1stchoiceloansllc.com/blog/emergency-loans-winchester-tn/",
+        "blogIndexInclusion": true,
+        "sitemapInclusion": true,
+        "imageExists": true,
+        "build": "not_completed; local Eleventy CLI hung before output",
+        "liveVerification": "not_attempted_after_stop_instruction",
+        "notPushed": true
+      },
+      "featuredImage": "/assets/emergency-loans-winchester-tn.jpg",
+      "serpResearch": {
+        "query": "emergency loans in Winchester TN",
+        "target": "Google US / Winchester TN",
+        "observations": [
+          "The July 26, 2026 SERP is commercial/BOFU and led by national emergency-loan listicles and marketplaces from NerdWallet, Forbes Advisor, Credible, LendingTree and Bankrate.",
+          "Top relevant pages emphasize direct-answer sections, lender comparison tables, fast-funding claims, APR or fee ranges, loan amounts, eligibility, credit profile, pros and cons, FAQs, author/editorial review framing, methodology, table of contents and warnings about high-cost or scam offers.",
+          "Local Winchester and Franklin County signals include lender/location pages, while some results are noisy because they target other Winchesters or Memphis streets; the article differentiates by comparing local installment loans, credit unions, community banks, online lenders, marketplaces, secured options and non-loan payment arrangements for specific urgent expenses.",
+          "The article avoids fabricated lender rankings, prices, reviews, first-hand testing, approval promises and same-day funding guarantees."
+        ],
+        "competitorPatterns": [
+          "Listicle or comparison-table format",
+          "Direct answer near the top",
+          "Funding-speed and cost comparison",
+          "Eligibility and credit-profile guidance",
+          "FAQs",
+          "Consumer-protection warnings"
+        ],
+        "gapsToAddress": [
+          "Winchester/Franklin County emergency-expense framing",
+          "Difference between urgent borrowing and fastest advertised funding",
+          "Small-dollar fit versus national lender minimums",
+          "Payment-plan and hardship alternatives before borrowing",
+          "Advance-fee scam red flags"
+        ],
+        "sources": [
+          "https://www.lendingtree.com/personal/emergency/",
+          "https://www.forbes.com/advisor/personal-loans/best-emergency-loans/",
+          "https://www.nerdwallet.com/personal-loans/best/emergency-loans",
+          "https://www.credible.com/personal-loan/best-emergency-loans",
+          "https://www.bankrate.com/loans/personal-loans/emergency-loans/",
+          "https://www.tn.gov/tdfi/consumer-resources.html",
+          "https://www.consumerfinance.gov/ask-cfpb/do-personal-installment-loans-have-fees-en-2120/",
+          "https://consumer.ftc.gov/articles/what-know-about-advance-fee-loans"
+        ]
+      },
+      "editorialReview": {
+        "intent": "Commercial BOFU comparison guide for emergency borrowing",
+        "wordCountTarget": "1300-2400",
+        "notes": [
+          "Differentiated from the existing emergency-expense service page by using a comparison/listicle article format rather than a service landing page.",
+          "No fabricated prices, reviews, ratings, expert quotes, first-hand testing, approval claims or same-day funding guarantees.",
+          "Company mention is factual and limited to relevant local installment-loan range context.",
+          "No YouTube embed included because no specific video materially improved the article beyond authoritative written sources.",
+          "Internal links point to existing pages and external links are limited to reliable finance/regulatory/consumer-protection sources."
         ]
       }
     }
