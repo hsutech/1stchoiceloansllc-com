@@ -3,7 +3,7 @@
   "company": "1st Choice Loans LLC",
   "market": "Winchester, Tennessee, USA",
   "language": "English",
-  "lastRunStarted": "2026-07-26",
+  "lastRunStarted": "2026-08-02",
   "processed": [
     {
       "keyword": "best personal loans in Winchester TN",
@@ -119,7 +119,7 @@
           "https://www.lendingtree.com/personal/small-loans/",
           "https://wallethub.com/personal-loans/small-personal-loans",
           "https://www.tn.gov/tdfi/consumer-resources.html",
-          "https://www.consumerfinance.gov/consumer-tools/personal-loans/",
+          "https://www.consumerfinance.gov/ask-cfpb/do-personal-installment-loans-have-fees-en-2120/",
           "https://consumer.ftc.gov/articles/what-know-about-advance-fee-loans"
         ]
       },
@@ -291,6 +291,65 @@
           "Company mention is factual and limited to local installment-loan range context.",
           "No YouTube embed included because no specific video materially improved the decision beyond authoritative written sources.",
           "Internal links point to existing pages and external links are limited to CFPB, NCUA, Tennessee DFI and FTC consumer-protection resources."
+        ]
+      }
+    },
+    {
+      "keyword": "best loans for bad credit in Tennessee",
+      "priority": "Alta",
+      "status": "pushed_unverified",
+      "statusNote": "Article prepared locally and awaiting publication/live verification.",
+      "slug": "best-loans-for-bad-credit-tennessee",
+      "title": "Best Loans for Bad Credit in Tennessee: 8 Options to Compare",
+      "url": "https://1stchoiceloansllc.com/blog/best-loans-for-bad-credit-tennessee/",
+      "publicationDate": "2026-08-02",
+      "commit": null,
+      "featuredImage": "/assets/best-loans-for-bad-credit-tennessee.jpg",
+      "serpResearch": {
+        "query": "best loans for bad credit in Tennessee",
+        "target": "Google US / Winchester TN",
+        "observations": [
+          "The August 2026 SERP is commercial/BOFU and led by national bad-credit loan listicles and marketplaces from Forbes Advisor, NerdWallet, Finder, WalletHub and Top Consumer Reviews.",
+          "Top relevant pages use comparison tables, lender lists, APR or fee ranges, credit-score filters, loan amounts, prequalification, funding-speed notes, author/editorial review signals, methodology, FAQs and risk warnings.",
+          "The broad Tennessee/local signal is weak in national SERP results, so the article differentiates with Tennessee regulator links, Winchester/Franklin County small-dollar context and local installment-loan fit without inventing reviews, prices or approval claims.",
+          "Search intent is bottom-of-funnel comparison: borrowers with damaged, thin or rebuilding credit want realistic options, eligibility expectations, total-cost warnings and a safer decision framework."
+        ],
+        "competitorPatterns": [
+          "Listicle and comparison-table format",
+          "Direct answer or key takeaways near the top",
+          "Bad-credit eligibility and prequalification guidance",
+          "APR, fee, loan amount and funding-speed coverage",
+          "Author/editorial review or methodology signals",
+          "FAQs plus scam or high-cost loan warnings"
+        ],
+        "gapsToAddress": [
+          "Tennessee and Winchester/Franklin County specificity",
+          "Clear distinction between small local installment loans, credit union products, secured loans, co-borrower loans, online lenders and non-loan hardship options",
+          "Bad-credit claims framed without guaranteed approval, invented rates or fabricated reviews",
+          "State regulator and federal consumer-protection resources for lender verification and advance-fee scam risk"
+        ],
+        "sources": [
+          "https://www.forbes.com/advisor/personal-loans/best-bad-credit-personal-loans/",
+          "https://www.nerdwallet.com/best/loans/personal-loans/bad-credit-loans",
+          "https://www.finder.com/personal-loans/bad-credit-personal-loans",
+          "https://wallethub.com/best-personal-loans-for-bad-credit",
+          "https://www.topconsumerreviews.com/best-bad-credit-loans/",
+          "https://www.consumerfinance.gov/consumer-tools/personal-loans/",
+          "https://www.tn.gov/tdfi/consumer-resources.html",
+          "https://www.tn.gov/tdfi/mortgage-consumer-lending.html",
+          "https://ncua.gov/support-services/access",
+          "https://consumer.ftc.gov/articles/what-know-about-advance-fee-loans"
+        ]
+      },
+      "editorialReview": {
+        "intent": "Commercial BOFU listicle/comparison for Tennessee bad-credit borrowing options",
+        "wordCountTarget": "1300-2400",
+        "notes": [
+          "Differentiated from Winchester personal-loan and small-loan articles by focusing on damaged, thin or rebuilding credit across Tennessee.",
+          "No fabricated lender rankings, prices, APRs, customer reviews, approval claims, quotes, experts or first-hand testing.",
+          "Company mention is factual and limited to local installment-loan range context.",
+          "No YouTube embed included because no specific current video materially improved the decision beyond authoritative written consumer-protection sources.",
+          "Internal links point to existing pages and external article links are limited to NCUA, CFPB, Tennessee DFI and FTC sources."
         ]
       }
     }
