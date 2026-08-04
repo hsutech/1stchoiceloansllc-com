@@ -297,20 +297,20 @@
     {
       "keyword": "best loans for bad credit in Tennessee",
       "priority": "Alta",
-      "status": "pushed_unverified",
-      "statusNote": "Article prepared locally and awaiting publication/live verification.",
+      "status": "published",
+      "statusNote": "Published and verified on the custom domain after reconciling the previous pushed_unverified run.",
       "slug": "best-loans-for-bad-credit-tennessee",
       "title": "Best Loans for Bad Credit in Tennessee: 8 Options to Compare",
       "url": "https://1stchoiceloansllc.com/blog/best-loans-for-bad-credit-tennessee/",
-      "publicationDate": "2026-08-02",
-      "commit": null,
+      "publicationDate": "2026-08-04",
+      "commit": "a685d94",
       "featuredImage": "/assets/best-loans-for-bad-credit-tennessee.jpg",
       "serpResearch": {
         "query": "best loans for bad credit in Tennessee",
         "target": "Google US / Winchester TN",
         "observations": [
-          "The August 2026 SERP is commercial/BOFU and led by national bad-credit loan listicles and marketplaces from Forbes Advisor, NerdWallet, Finder, WalletHub and Top Consumer Reviews.",
-          "Top relevant pages use comparison tables, lender lists, APR or fee ranges, credit-score filters, loan amounts, prequalification, funding-speed notes, author/editorial review signals, methodology, FAQs and risk warnings.",
+          "The August 4, 2026 SERP is commercial/BOFU and led by national bad-credit loan listicles and marketplaces from Forbes Advisor, WalletHub, Finder, Experian and similar personal-finance publishers.",
+          "Top relevant pages use comparison tables, lender lists, APR or fee ranges, credit-score filters, loan amounts, prequalification, funding-speed notes, author/editorial review signals, methodology, tables of contents, FAQs and risk warnings.",
           "The broad Tennessee/local signal is weak in national SERP results, so the article differentiates with Tennessee regulator links, Winchester/Franklin County small-dollar context and local installment-loan fit without inventing reviews, prices or approval claims.",
           "Search intent is bottom-of-funnel comparison: borrowers with damaged, thin or rebuilding credit want realistic options, eligibility expectations, total-cost warnings and a safer decision framework."
         ],
@@ -329,12 +329,12 @@
           "State regulator and federal consumer-protection resources for lender verification and advance-fee scam risk"
         ],
         "sources": [
-          "https://www.forbes.com/advisor/personal-loans/best-bad-credit-personal-loans/",
+          "https://www.forbes.com/advisor/personal-loans/bad-credit-loans/",
           "https://www.nerdwallet.com/best/loans/personal-loans/bad-credit-loans",
-          "https://www.finder.com/personal-loans/bad-credit-personal-loans",
-          "https://wallethub.com/best-personal-loans-for-bad-credit",
-          "https://www.topconsumerreviews.com/best-bad-credit-loans/",
-          "https://www.consumerfinance.gov/consumer-tools/personal-loans/",
+          "https://www.finder.com/personal-loans",
+          "https://wallethub.com/personal-loans/bad-credit",
+          "https://www.experian.com/loans/personal/bad-credit/",
+          "https://www.consumerfinance.gov/ask-cfpb/do-personal-installment-loans-have-fees-en-2120/",
           "https://www.tn.gov/tdfi/consumer-resources.html",
           "https://www.tn.gov/tdfi/mortgage-consumer-lending.html",
           "https://ncua.gov/support-services/access",
@@ -351,6 +351,27 @@
           "No YouTube embed included because no specific current video materially improved the decision beyond authoritative written consumer-protection sources.",
           "Internal links point to existing pages and external article links are limited to NCUA, CFPB, Tennessee DFI and FTC sources."
         ]
+      },
+      "verifiedAt": "2026-08-04",
+      "verification": {
+        "articleHttpStatus": 200,
+        "blogIndexHttpStatus": 200,
+        "sitemapHttpStatus": 200,
+        "imageHttpStatus": 200,
+        "imageLoaded": true,
+        "imageContentType": "image/jpeg",
+        "localArticleExists": true,
+        "wordCount": 1827,
+        "h1": "Best Loans for Bad Credit in Tennessee: 8 Options to Compare",
+        "canonical": "https://1stchoiceloansllc.com/blog/best-loans-for-bad-credit-tennessee/",
+        "blogIndexInclusion": true,
+        "sitemapInclusion": true,
+        "imageExists": true,
+        "build": "local Eleventy CLI hung after starting; stopped per automation timeout; static SEO checks passed",
+        "localHttpVerification": "not run because build command did not complete",
+        "desktopRender": "pending browser verification",
+        "mobileRender": "pending browser verification",
+        "liveVerification": "passed"
       }
     }
   ],
