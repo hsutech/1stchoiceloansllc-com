@@ -533,13 +533,13 @@
     {
       "keyword": "best local lenders in Franklin County TN",
       "priority": "Alta",
-      "status": "pushed_unverified",
-      "statusNote": "Article prepared for publication; live custom-domain verification pending after push.",
+      "status": "published",
+      "statusNote": "Published and verified on the custom domain.",
       "slug": "best-local-lenders-franklin-county-tn",
       "title": "Best Local Lenders in Franklin County TN: 7 Options to Compare",
       "url": "https://1stchoiceloansllc.com/blog/best-local-lenders-franklin-county-tn/",
       "publicationDate": "2026-08-16",
-      "commit": null,
+      "commit": "faa4b02",
       "featuredImage": "/assets/best-local-lenders-franklin-county-tn.jpg",
       "serpResearch": {
         "query": "best local lenders in Franklin County TN",
@@ -588,6 +588,27 @@
           "No YouTube embed included because the SERP intent and available authoritative sources did not reveal a specific video that materially improved the decision.",
           "Article includes table of contents, comparison table, FAQPage and ItemList schema, 4+ contextual internal links and 5 external links in the article body."
         ]
+      },
+      "verifiedAt": "2026-08-16",
+      "verification": {
+        "articleHttpStatus": 200,
+        "blogIndexHttpStatus": 200,
+        "sitemapHttpStatus": 200,
+        "imageHttpStatus": 200,
+        "imageLoaded": true,
+        "imageContentType": "image/jpeg",
+        "localArticleExists": true,
+        "wordCount": 1598,
+        "h1": "Best Local Lenders in Franklin County TN: 7 Options to Compare",
+        "canonical": "https://1stchoiceloansllc.com/blog/best-local-lenders-franklin-county-tn/",
+        "blogIndexInclusion": true,
+        "sitemapInclusion": true,
+        "imageExists": true,
+        "build": "passed with npm run build -- --quiet",
+        "localHttpVerification": "static dist checks passed; local server bind was restricted in sandbox/elevated session was not reachable from sandbox curl",
+        "desktopRender": "static responsive/layout checks passed; Playwright REPL import failed, no screenshot captured",
+        "mobileRender": "static responsive/layout checks passed; Playwright REPL import failed, no screenshot captured",
+        "liveVerification": "passed on second attempt after Cloudflare propagation"
       }
     }
   ],
