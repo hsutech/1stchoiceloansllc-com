@@ -13,7 +13,7 @@
 body {
   background: var(--fc-sand);
   color: var(--fc-stone);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
   font-weight: 500;
 }
 
@@ -66,7 +66,7 @@ body {
 .page-heading h1,
 h2,
 .article-hero h1 {
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: "Fraunces", "Iowan Old Style", Georgia, "Times New Roman", serif;
   font-weight: 700;
   color: var(--fc-forest);
   letter-spacing: -.01em;
@@ -138,7 +138,7 @@ h2,
 
 .hero-panel strong {
   color: #fff;
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: "Fraunces", "Iowan Old Style", Georgia, "Times New Roman", serif;
   font-size: clamp(38px, 4vw, 52px);
 }
 
@@ -213,7 +213,7 @@ h2,
 
 .service-card h2,
 .post-card h2 {
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: "Fraunces", "Iowan Old Style", Georgia, "Times New Roman", serif;
   font-size: 25px;
 }
 
@@ -253,7 +253,7 @@ h2,
 .blog-strip strong {
   display: block;
   margin-top: 14px;
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: "Fraunces", "Iowan Old Style", Georgia, "Times New Roman", serif;
   font-size: 22px;
   line-height: 1.18;
 }
@@ -279,3 +279,8 @@ h2,
     margin-top: 16px;
   }
 }
+
+/* `.narrow` medía 920px y daba 87 caracteres por línea, la línea más larga del
+   sitio. Se limita el texto; el contenedor sigue igual para tablas y medios. */
+.content-section.narrow p, .content-section.narrow li,
+.legal p, .legal li { max-width: min(60ch, 100%); }
